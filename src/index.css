@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url(./new/stars.jpg)
+  background-image: url(/new/stars.jpg)
 }
 
 /* Navbar Styling */
@@ -738,7 +738,7 @@ h1 {
 
 }
 .connect{
-  background-image: url(./assets/terminal.png);
+  background-image: url(/assets/terminal.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
