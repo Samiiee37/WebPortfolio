@@ -8,7 +8,7 @@ export default function Bentogrid() {
     <div className="grid">
       <div className="item aboutme">
         <img
-          src="public/new/display.jpg"
+          src="/new/display.jpg"
           alt="Samarvir Singh"
           className="profile-picture"
         />
