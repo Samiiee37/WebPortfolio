@@ -738,7 +738,7 @@ h1 {
 
 }
 .connect{
-  background-image: url(./public/assets/terminal.png);
+  background-image: url(./assets/terminal.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
