@@ -46,7 +46,7 @@ export const navLinks = [
       pos: 'Core Member',
       duration: 'September 2023 - Present',
       title: "At Technology Club, I actively contribute as a core member by working on innovative projects, facilitating knowledge sharing, and organizing tech-related events to enhance technical skills among peers.",
-      icon: 'public/new/technology_club_nit_srinagar_logo.jpeg',
+      icon: '/new/technology_club_nit_srinagar_logo.jpeg',
       animation: 'victory',
     },
     {
